@@ -19,3 +19,7 @@ Author: Mikail Williams <Mikail Williams>
 Date:   Wed Sep 6 17:14:25 2017 -0500
     first commit
 '''
+
+# Charles Story
+
+I decided to go for a run and ended up halfway to Nigeria! NOT AGAIN!!!
