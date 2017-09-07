@@ -81,10 +81,29 @@ I want you to submit your story, as well as your git log.
 
 ####### Story: When I was three I played with my knee.
 
-######## Git Log:
-
 =======
 # Charles Story
 
 I decided to go for a run and ended up halfway to Nigeria! NOT AGAIN!!!
 >>>>>>> charles
+
+
+######## Git Log: 
+'''sh
+commit 15ae5207fb2ee40b0dcf7b85e7bc114a8beb2302
+'''
+'''sh
+Merge: 10a2ad1 66d218f
+Author: Mikail Williams <Mikail Williams>
+Date:   Thu Sep 7 00:16:20 2017 -0500
+    Merge branch 'dev'
+commit 66d218f95041120a981ad8fe9abeecf78911c2e4
+Author: Mikail Williams <Mikail Williams>
+Date:   Thu Sep 7 00:15:37 2017 -0500
+    added story 3
+commit 8df33508fbd7448f2cd8de06250dc2e69435700a
+Merge: bbcb7dd 7126ab3
+Author: CharlesALong <charleslong.personal@gmail.com>
+Date:   Wed Sep 6 23:02:27 2017 -0500
+    Fixing error?
+'''
