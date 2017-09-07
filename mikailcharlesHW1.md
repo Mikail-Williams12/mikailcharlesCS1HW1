@@ -75,6 +75,14 @@ Date:   Wed Sep 6 17:14:25 2017 -0500
 
 
 '''
+
+###### Item 3: Your third story, when you worked with a partner. 
+I want you to submit your story, as well as your git log.
+
+####### Story: When I was three I played with my knee.
+
+######## Git Log:
+
 =======
 # Charles Story
 
