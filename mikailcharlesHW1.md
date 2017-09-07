@@ -20,6 +20,7 @@ Date:   Wed Sep 6 17:14:25 2017 -0500
     first commit
 '''
 
+<<<<<<< HEAD
 #### Item 2: Your second story, when you learned to use branches.
 I want you to submit your story, as well as your git log.
 
@@ -74,3 +75,8 @@ Date:   Wed Sep 6 17:14:25 2017 -0500
 
 
 '''
+=======
+# Charles Story
+
+I decided to go for a run and ended up halfway to Nigeria! NOT AGAIN!!!
+>>>>>>> charles
